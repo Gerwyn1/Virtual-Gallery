@@ -1,0 +1,1 @@
+console.log('media page logged')
